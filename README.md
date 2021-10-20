@@ -8,3 +8,11 @@ Number of words in a pass phrase.
 ## Output
  
 String of random words, seperated by spaces. 
+
+for e.g. 
+* from generatepass import generate_pass
+* generate_pass(7)
+
+### Easy to remember password at your fingertips!!!
+'fd nh bore raoul trap jug rout'
+
